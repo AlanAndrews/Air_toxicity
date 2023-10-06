@@ -41,6 +41,14 @@ VOCs
 120
 
 
+| Parquet Files        | Number of Analytes  | 
+|------------|------------|
+|Lead|3|
+|HAPs|41|
+|NOs|3|
+|VOCs|120|
+
+
 The data in the parquet files is organized by the state the sample was taken and the date YYYY-MM-DD format. We will need to aggregate the data
 
 
