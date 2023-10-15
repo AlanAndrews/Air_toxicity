@@ -66,9 +66,13 @@ The data consists of several files, listed below:
 ​
 - Metrics for determining the best model were R squared and Root Mean Squared Error
     - We selected these metrics because R^2 is useful because it states how much of the variation of Y is explained by the models, and RMSE is useful to have a measure in units of Y of how far in average our predictions are from the observed values.
+
+
 ​
 The results achieved were:
-![Alt text](image.png)
+![Alt text](res_table.png)
+
+
 ---
 ### Conclusion
 ​
