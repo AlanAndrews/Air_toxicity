@@ -70,7 +70,7 @@ The data consists of several files, listed below:
 
 ​
 The results achieved were:
-![Alt text](res_table.png)
+![Alt text](assets/res_table.png)
 
 
 ---
